@@ -1,0 +1,52 @@
+// Common
+
+html,body {
+	font-size: 62.5%;
+}
+body {
+	background: $bgColor;
+	color: $color;
+	font-family: $font;
+	line-height: $line-height;
+	font-weight: 300;
+}
+
+::selection {
+	color: $color-inverse;
+	background: $color-inverse-bg;
+}
+
+a {
+	color: $color-link;
+	text-decoration: underline;
+	cursor: pointer;
+	&:hover {
+		color: lighten($color-link, 20%);
+		text-decoration: none;
+	}
+	&:focus {
+		outline:none;
+	}
+	transition: all .3s;
+}
+
+a:focus, *:focus { outline:none; }
+
+// Print
+@media print {
+	* html body {
+		zoom: .7;
+	}
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	vertical-align: bottom;
+	list-style: none;
+}
+
+img {
+	vertical-align: bottom;
+}
