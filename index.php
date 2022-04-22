@@ -84,6 +84,32 @@ $description	= "日常にお茶がある楽しみを。ひとりひとりのラ�
 	</div>
 </section>
 
+<section class="plans__top">
+	<div class="plans__title">
+		<img src="./common/images/plans__title.png" alt="TSUNAGUTOから「お試し３種」のプラン登場">
+	</div>
+	<div class="plans__inner">
+		<div class="plans__box">
+			<a href="https://tsunaguto.myshopify.com/products/trial-morning">
+				<img src="./common/images/plans__pc01.png" alt="PLAN01 おはようセット" class="pc">
+				<img src="./common/images/plans__sp01.png" alt="PLAN01 おはようセット" class="sp">
+			</a>
+		</div>
+		<div class="plans__box">
+			<a href="https://tsunaguto.myshopify.com/products/trial-night">
+				<img src="./common/images/plans__pc02.png" alt="PLAN02 おやすみセット" class="pc">
+				<img src="./common/images/plans__sp02.png" alt="PLAN02 おやすみセット" class="sp">
+			</a>
+		</div>
+		<div class="plans__box">
+			<a href="https://tsunaguto.myshopify.com/products/trial-yokubari">
+				<img src="./common/images/plans__pc03.png" alt="PLAN03 よくばりセット" class="pc">
+				<img src="./common/images/plans__sp03.png" alt="PLAN03 よくばりセット" class="sp">
+			</a>
+		</div>
+	</div>
+</section>
+
 <section class="story story__top">
 	<div class="story__top__inner">
 		<div class="story__top__img fade"><img src="./common/images/story_img.png"></div>

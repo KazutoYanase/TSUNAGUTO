@@ -158,49 +158,13 @@ $description	= "お茶スタイル診断のページです。あなたののラ�
 			<img src="./common/images/twitter.svg">診断結果をTwitterでシェアする
 		</a>
 	</div>
+	<div class="ochart__plan_result">
+		<a href="https://tsunaguto.myshopify.com/products/trial-night">
+			<img src="./common/images/plan_result_pc02.png" alt="PLAN02 おやすみセット" class="pc">
+			<img src="./common/images/plan_result_sp02.png" alt="PLAN02 おやすみセット" class="sp">
+		</a>
+	</div>
 	<?php include('./parts_plan_ochart.php'); //プラン ?>
-	<section class="lineup__box ochart__lineup fade">
-		<div class="lineup__box__inner">
-			<h2 class="lineup__singleorigin__ohter"><img src="./common/images/ochart_stit_other.svg" alt="その他のお茶"></h2>
-			<div class="lineup__list lineup__list__single">
-				<ul>
-					<li class="fade">
-						<a href="./lineup_kamairi.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_kamairi.png" alt="特選釜炒り煎茶"></div>
-							<dl>
-								<dt>特選釜炒り煎茶</dt>
-								<dd class="en">KAMAIRI</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_black.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_black.png" alt="和紅茶"></div>
-							<dl>
-								<dt>和紅茶<span>-みなみさやか-</span></dt>
-								<dd class="en">BLACK</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>食事と一緒に</span><span>おやつと一緒に</span></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_oolong.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_oolong.png" alt="和烏龍茶"></div>
-							<dl>
-								<dt>和烏龍茶<span>-たかちほ-</span></dt>
-								<dd class="en">OOLONG</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>食事と一緒に</span></dd>
-							</dl>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<?php include('./parts_nakami.php'); //定期便のなかみ ?>
 	<?php include('./parts_structure_ochart.php'); //お茶の定期便の仕組み ?>
 </section>
@@ -235,49 +199,13 @@ $description	= "お茶スタイル診断のページです。あなたののラ�
 			<img src="./common/images/twitter.svg">診断結果をTwitterでシェアする
 		</a>
 	</div>
+	<div class="ochart__plan_result">
+		<a href="https://tsunaguto.myshopify.com/products/trial-morning">
+			<img src="./common/images/plan_result_pc01.png" alt="PLAN01 おはようセット" class="pc">
+			<img src="./common/images/plan_result_sp01.png" alt="PLAN01 おはようセット" class="sp">
+		</a>
+	</div>
 	<?php include('./parts_plan_ochart.php'); //プラン ?>
-	<section class="lineup__box ochart__lineup fade">
-		<div class="lineup__box__inner">
-			<h2 class="lineup__singleorigin__ohter"><img src="./common/images/ochart_stit_other.svg" alt="その他のお茶"></h2>
-			<div class="lineup__list lineup__list__single">
-				<ul>
-					<li class="fade">
-						<a href="./lineup_bancha.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_bancha.png" alt="三熟番茶"></div>
-							<dl>
-								<dt>三熟番茶</dt>
-								<dd class="en">BANCHA</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_black.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_black.png" alt="和紅茶"></div>
-							<dl>
-								<dt>和紅茶<span>-みなみさやか-</span></dt>
-								<dd class="en">BLACK</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>食事と一緒に</span><span>おやつと一緒に</span></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_oolong.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_oolong.png" alt="和烏龍茶"></div>
-							<dl>
-								<dt>和烏龍茶<span>-たかちほ-</span></dt>
-								<dd class="en">OOLONG</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>食事と一緒に</span></dd>
-							</dl>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<?php include('./parts_nakami.php'); //定期便のなかみ ?>
 	<?php include('./parts_structure_ochart.php'); //お茶の定期便の仕組み ?>
 </section>
@@ -313,48 +241,6 @@ $description	= "お茶スタイル診断のページです。あなたののラ�
 		</a>
 	</div>
 	<?php include('./parts_plan_ochart.php'); //プラン ?>
-	<section class="lineup__box ochart__lineup fade">
-		<div class="lineup__box__inner">
-			<h2 class="lineup__singleorigin__ohter"><img src="./common/images/ochart_stit_other.svg" alt="その他のお茶"></h2>
-			<div class="lineup__list lineup__list__single">
-				<ul>
-					<li class="fade">
-						<a href="./lineup_bancha.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_bancha.png" alt="三熟番茶"></div>
-							<dl>
-								<dt>三熟番茶</dt>
-								<dd class="en">BANCHA</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_kamairi.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_kamairi.png" alt="特選釜炒り煎茶"></div>
-							<dl>
-								<dt>特選釜炒り煎茶</dt>
-								<dd class="en">KAMAIRI</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_oolong.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_oolong.png" alt="和烏龍茶"></div>
-							<dl>
-								<dt>和烏龍茶<span>-たかちほ-</span></dt>
-								<dd class="en">OOLONG</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>食事と一緒に</span></dd>
-							</dl>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<?php include('./parts_nakami.php'); //定期便のなかみ ?>
 	<?php include('./parts_structure_ochart.php'); //お茶の定期便の仕組み ?>
 </section>
@@ -389,49 +275,19 @@ $description	= "お茶スタイル診断のページです。あなたののラ�
 			<img src="./common/images/twitter.svg">診断結果をTwitterでシェアする
 		</a>
 	</div>
+	<div class="ochart__plan_result plan__double">
+		<a href="https://tsunaguto.myshopify.com/products/trial-morning">
+			<img src="./common/images/plan_result_pc01.png" alt="PLAN01 おはようセット" class="pc">
+			<img src="./common/images/plan_result_sp01.png" alt="PLAN01 おはようセット" class="sp">
+		</a>
+	</div>
+	<div class="ochart__plan_result">
+		<a href="https://tsunaguto.myshopify.com/products/trial-yokubari">
+			<img src="./common/images/plan_result_pc03.png" alt="PLAN03 よくばりセット" class="pc">
+			<img src="./common/images/plan_result_sp03.png" alt="PLAN03 よくばりセット" class="sp">
+		</a>
+	</div>
 	<?php include('./parts_plan_ochart.php'); //プラン ?>
-	<section class="lineup__box ochart__lineup fade">
-		<div class="lineup__box__inner">
-			<h2 class="lineup__singleorigin__ohter"><img src="./common/images/ochart_stit_other.svg" alt="その他のお茶"></h2>
-			<div class="lineup__list lineup__list__single">
-				<ul>
-					<li class="fade">
-						<a href="./lineup_bancha.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_bancha.png" alt="三熟番茶"></div>
-							<dl>
-								<dt>三熟番茶</dt>
-								<dd class="en">BANCHA</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_kamairi.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_kamairi.png" alt="特選釜炒り煎茶"></div>
-							<dl>
-								<dt>特選釜炒り煎茶</dt>
-								<dd class="en">KAMAIRI</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_black.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_black.png" alt="和紅茶"></div>
-							<dl>
-								<dt>和紅茶<span>-みなみさやか-</span></dt>
-								<dd class="en">BLACK</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>食事と一緒に</span><span>おやつと一緒に</span></dd>
-							</dl>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<?php include('./parts_nakami.php'); //定期便のなかみ ?>
 	<?php include('./parts_structure_ochart.php'); //お茶の定期便の仕組み ?>
 </section>
@@ -466,60 +322,13 @@ $description	= "お茶スタイル診断のページです。あなたののラ�
 			<img src="./common/images/twitter.svg">診断結果をTwitterでシェアする
 		</a>
 	</div>
+	<div class="ochart__plan_result">
+		<a href="https://tsunaguto.myshopify.com/products/trial-yokubari">
+			<img src="./common/images/plan_result_pc03.png" alt="PLAN03 よくばりセット" class="pc">
+			<img src="./common/images/plan_result_sp03.png" alt="PLAN03 よくばりセット" class="sp">
+		</a>
+	</div>
 	<?php include('./parts_plan_ochart.php'); //プラン ?>
-	<section class="lineup__box ochart__lineup fade">
-		<div class="lineup__box__inner">
-			<h2 class="lineup__singleorigin__ohter"><img src="./common/images/ochart_stit_other.svg" alt="その他のお茶"></h2>
-			<div class="lineup__list lineup__list__single">
-				<ul>
-					<li class="fade">
-						<a href="./lineup_reset.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_reset.png" alt="リセット茶"></div>
-							<dl>
-								<dt>リセット茶<span>-百姓番茶ブレンド-</span></dt>
-								<dd class="en">RESET BODY</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_shiny.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_shiny.png" alt="ウツクシ茶"></div>
-							<dl>
-								<dt>ウツクシ茶<span>-和紅茶ブレンド-</span></dt>
-								<dd class="en">SHINY SKIN</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_refreshing.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_refreshing.png" alt="スッキリ茶"></div>
-							<dl>
-								<dt>スッキリ茶<span>-三熟番茶ブレンド-</span></dt>
-								<dd class="en">REFRESHING</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>オススメ</span><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_warm.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_warm.png" alt="ヌクモリ茶"></div>
-							<dl>
-								<dt>ヌクモリ茶<span>-三熟番茶ブレンド-</span></dt>
-								<dd class="en">WARM FEELING</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<?php include('./parts_nakami.php'); //定期便のなかみ ?>
 	<?php include('./parts_structure_ochart.php'); //お茶の定期便の仕組み ?>
 </section>
@@ -554,60 +363,13 @@ $description	= "お茶スタイル診断のページです。あなたののラ�
 			<img src="./common/images/twitter.svg">診断結果をTwitterでシェアする
 		</a>
 	</div>
+	<div class="ochart__plan_result">
+		<a href="https://tsunaguto.myshopify.com/products/trial-yokubari">
+			<img src="./common/images/plan_result_pc03.png" alt="PLAN03 よくばりセット" class="pc">
+			<img src="./common/images/plan_result_sp03.png" alt="PLAN03 よくばりセット" class="sp">
+		</a>
+	</div>
 	<?php include('./parts_plan_ochart.php'); //プラン ?>
-	<section class="lineup__box ochart__lineup fade">
-		<div class="lineup__box__inner">
-			<h2 class="lineup__singleorigin__ohter"><img src="./common/images/ochart_stit_other.svg" alt="その他のお茶"></h2>
-			<div class="lineup__list lineup__list__single">
-				<ul>
-					<li class="fade">
-						<a href="./lineup_smart.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_smart.png" alt="ヒキシメ茶"></div>
-							<dl>
-								<dt>ヒキシメ茶<span>-和烏龍茶ブレンド-</span></dt>
-								<dd class="en">SMART AND SLIM</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_shiny.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_shiny.png" alt="ウツクシ茶"></div>
-							<dl>
-								<dt>ウツクシ茶<span>-和紅茶ブレンド-</span></dt>
-								<dd class="en">SHINY SKIN</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_refreshing.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_refreshing.png" alt="スッキリ茶"></div>
-							<dl>
-								<dt>スッキリ茶<span>-三熟番茶ブレンド-</span></dt>
-								<dd class="en">REFRESHING</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>オススメ</span><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_warm.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_warm.png" alt="ヌクモリ茶"></div>
-							<dl>
-								<dt>ヌクモリ茶<span>-三熟番茶ブレンド-</span></dt>
-								<dd class="en">WARM FEELING</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<?php include('./parts_nakami.php'); //定期便のなかみ ?>
 	<?php include('./parts_structure_ochart.php'); //お茶の定期便の仕組み ?>
 </section>
@@ -642,60 +404,13 @@ $description	= "お茶スタイル診断のページです。あなたののラ�
 			<img src="./common/images/twitter.svg">診断結果をTwitterでシェアする
 		</a>
 	</div>
+	<div class="ochart__plan_result">
+		<a href="https://tsunaguto.myshopify.com/products/trial-morning">
+			<img src="./common/images/plan_result_pc01.png" alt="PLAN01 おはようセット" class="pc">
+			<img src="./common/images/plan_result_sp01.png" alt="PLAN01 おはようセット" class="sp">
+		</a>
+	</div>
 	<?php include('./parts_plan_ochart.php'); //プラン ?>
-	<section class="lineup__box ochart__lineup fade">
-		<div class="lineup__box__inner">
-			<h2 class="lineup__singleorigin__ohter"><img src="./common/images/ochart_stit_other.svg" alt="その他のお茶"></h2>
-			<div class="lineup__list lineup__list__single">
-				<ul>
-					<li class="fade">
-						<a href="./lineup_smart.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_smart.png" alt="ヒキシメ茶"></div>
-							<dl>
-								<dt>ヒキシメ茶<span>-和烏龍茶ブレンド-</span></dt>
-								<dd class="en">SMART AND SLIM</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_reset.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_reset.png" alt="リセット茶"></div>
-							<dl>
-								<dt>リセット茶<span>-百姓番茶ブレンド-</span></dt>
-								<dd class="en">RESET BODY</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_refreshing.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_refreshing.png" alt="スッキリ茶"></div>
-							<dl>
-								<dt>スッキリ茶<span>-三熟番茶ブレンド-</span></dt>
-								<dd class="en">REFRESHING</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>オススメ</span><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_warm.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_warm.png" alt="ヌクモリ茶"></div>
-							<dl>
-								<dt>ヌクモリ茶<span>-三熟番茶ブレンド-</span></dt>
-								<dd class="en">WARM FEELING</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<?php include('./parts_nakami.php'); //定期便のなかみ ?>
 	<?php include('./parts_structure_ochart.php'); //お茶の定期便の仕組み ?>
 </section>
@@ -730,60 +445,13 @@ $description	= "お茶スタイル診断のページです。あなたののラ�
 			<img src="./common/images/twitter.svg">診断結果をTwitterでシェアする
 		</a>
 	</div>
+	<div class="ochart__plan_result">
+		<a href="https://tsunaguto.myshopify.com/products/trial-night">
+			<img src="./common/images/plan_result_pc02.png" alt="PLAN02 おやすみセット" class="pc">
+			<img src="./common/images/plan_result_sp02.png" alt="PLAN02 おやすみセット" class="sp">
+		</a>
+	</div>
 	<?php include('./parts_plan_ochart.php'); //プラン ?>
-	<section class="lineup__box ochart__lineup fade">
-		<div class="lineup__box__inner">
-			<h2 class="lineup__singleorigin__ohter"><img src="./common/images/ochart_stit_other.svg" alt="その他のお茶"></h2>
-			<div class="lineup__list lineup__list__single">
-				<ul>
-					<li class="fade">
-						<a href="./lineup_smart.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_smart.png" alt="ヒキシメ茶"></div>
-							<dl>
-								<dt>ヒキシメ茶<span>-和烏龍茶ブレンド-</span></dt>
-								<dd class="en">SMART AND SLIM</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_reset.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_reset.png" alt="リセット茶"></div>
-							<dl>
-								<dt>リセット茶<span>-百姓番茶ブレンド-</span></dt>
-								<dd class="en">RESET BODY</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_shiny.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_shiny.png" alt="ウツクシ茶"></div>
-							<dl>
-								<dt>ウツクシ茶<span>-和紅茶ブレンド-</span></dt>
-								<dd class="en">SHINY SKIN</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_warm.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_warm.png" alt="ヌクモリ茶"></div>
-							<dl>
-								<dt>ヌクモリ茶<span>-三熟番茶ブレンド-</span></dt>
-								<dd class="en">WARM FEELING</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<?php include('./parts_nakami.php'); //定期便のなかみ ?>
 	<?php include('./parts_structure_ochart.php'); //お茶の定期便の仕組み ?>
 </section>
@@ -818,60 +486,13 @@ $description	= "お茶スタイル診断のページです。あなたののラ�
 			<img src="./common/images/twitter.svg">診断結果をTwitterでシェアする
 		</a>
 	</div>
+	<div class="ochart__plan_result">
+		<a href="https://tsunaguto.myshopify.com/products/trial-night">
+			<img src="./common/images/plan_result_pc02.png" alt="PLAN02 おやすみセット" class="pc">
+			<img src="./common/images/plan_result_sp02.png" alt="PLAN02 おやすみセット" class="sp">
+		</a>
+	</div>
 	<?php include('./parts_plan_ochart.php'); //プラン ?>
-	<section class="lineup__box ochart__lineup fade">
-		<div class="lineup__box__inner">
-			<h2 class="lineup__singleorigin__ohter"><img src="./common/images/ochart_stit_other.svg" alt="その他のお茶"></h2>
-			<div class="lineup__list lineup__list__single">
-				<ul>
-					<li class="fade">
-						<a href="./lineup_smart.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_smart.png" alt="ヒキシメ茶"></div>
-							<dl>
-								<dt>ヒキシメ茶<span>-和烏龍茶ブレンド-</span></dt>
-								<dd class="en">SMART AND SLIM</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_reset.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_reset.png" alt="リセット茶"></div>
-							<dl>
-								<dt>リセット茶<span>-百姓番茶ブレンド-</span></dt>
-								<dd class="en">RESET BODY</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_shiny.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_shiny.png" alt="ウツクシ茶"></div>
-							<dl>
-								<dt>ウツクシ茶<span>-和紅茶ブレンド-</span></dt>
-								<dd class="en">SHINY SKIN</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"></dd>
-							</dl>
-						</a>
-					</li>
-					<li class="fade">
-						<a href="./lineup_refreshing.php">
-							<div class="lineup__list__img"><img src="./common/images/lineup_refreshing.png" alt="スッキリ茶"></div>
-							<dl>
-								<dt>スッキリ茶<span>-三熟番茶ブレンド-</span></dt>
-								<dd class="en">REFRESHING</dd>
-								<dd class="price">￥1,890（税込）</dd>
-								<dd class="tag"><span>オススメ</span><span>低カフェイン</span></dd>
-							</dl>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<?php include('./parts_nakami.php'); //定期便のなかみ ?>
 	<?php include('./parts_structure_ochart.php'); //お茶の定期便の仕組み ?>
 </section>
